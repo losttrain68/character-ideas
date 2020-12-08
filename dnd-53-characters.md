@@ -1,5 +1,5 @@
 # Squirrel Ranger, Multiclass
-##CHARACTER NAME:## Ren Blacktail
+CHARACTER NAME: Ren Blacktail
 
 CLASS & LEVEL: 
 
