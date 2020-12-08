@@ -1,15 +1,10 @@
 # Squirrel Ranger, Multiclass
 
 **CHARACTER NAME:** Ren Blacktail
-
 **CLASS & LEVEL:**
-
 **Ranger Level 3, Hunter Archetype.** Favored Enemy - Beasts. Hunter’s Prey, Colossus Slayer - creatures below max HP take additional 1d8; only once per turn. Natural Explorer - Forests. Fighting Style - Archery (+2 to ranged weapons). 
-
 **Rogue Level 3, Scout Archetype.** Skirmisher - can move half speed if enemy ends turn within 5 feet; does not provoke opportunity attacks.
-
 **BACKGROUND:** Soldier - Scout. Veteran of the Watch, Ren is now tasked with patrolling the farmlands outside Waterdeep. He longs for more adventure and time in the trees. 
-
 **RACE:** Critterfolk - Squirrel
 
 MOVE: Speed 30’. Climb 30’.
