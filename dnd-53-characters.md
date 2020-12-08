@@ -12,34 +12,34 @@
 
 **RACE:** Critterfolk - Squirrel
 
-MOVE: Speed 30’. Climb 30’.
+**MOVE:** Speed 30’. Climb 30’.
 
-DESCRIPTION: 3 feet 3 inches tall, 35 lbs., black fur
+**DESCRIPTION:** 3 feet 3 inches tall, 35 lbs., black fur
 
-ALIGNMENT: Neutral Good
+**ALIGNMENT:** Neutral Good
 
-STRENGTH: 10
+**STRENGTH:** 10
 
-DEXTERITY: 18 (+1 Resilient)
+**DEXTERITY:** 18 (+1 Resilient)
 
-CONSTITUTION: 12
+**CONSTITUTION:** 12
 
-INTELLIGENCE: 12 (+2 racial)
+**INTELLIGENCE:** 12 (+2 racial)
 
-WISDOM: 11
+**WISDOM:** 11
 
-CHARISMA: 10
+**CHARISMA:** 10
 
-FEATS: Scurry (racial) - can use Dash action as bonus action. Resilient - DEX +1; 
+**FEATS:** Scurry (racial) - can use Dash action as bonus action. Resilient - DEX +1; 
 
-SKILLS: Acrobatics x2, Athletics, Nature, Perception, Stealth, Survival x2
+**SKILLS:** Acrobatics x2, Athletics, Nature, Perception, Stealth, Survival x2
 
-PROFICIENCIES: 
+**PROFICIENCIES:** 
 
-LANGUAGES: Common, Rodent
+**LANGUAGES:** Common, Rodent
 
-ATTACKS: Bite and Gnaw (racial) - 1d4+DEX piercing, 1”/min. chew through.
+**ATTACKS:** Bite and Gnaw (racial) - 1d4+DEX piercing, 1”/min. chew through.
 
-SPELLS LEVEL 1 (SLOTS = 3): Ensnaring Strike, Hunter’s Mark, Jump
+**SPELLS LEVEL 1 (SLOTS = 3):** Ensnaring Strike, Hunter’s Mark, Jump
 
-EQUIPMENT: Leather Armor, Shortsword, Explorer’s Pack, Shortbow (1d6 piercing), Quiver with 20 arrows, Necklace made from a displacer fang, 
+**EQUIPMENT:** Leather Armor, Shortsword, Explorer’s Pack, Shortbow (1d6 piercing), Quiver with 20 arrows, Necklace made from a displacer fang, 
