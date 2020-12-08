@@ -1,4 +1,6 @@
-# Squirrel Ranger, Multiclass
+# D&D Characters
+
+## Squirrel Ranger, Multiclass
 
 **CHARACTER NAME:** Ren Blacktail
 
