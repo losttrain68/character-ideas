@@ -18,7 +18,7 @@
 
 **ALIGNMENT:** Neutral Good
 
-# Stats
+## Stats
 
 *Base + Racial Modifier + Feat Modifier + Points Spent = Total*
 
