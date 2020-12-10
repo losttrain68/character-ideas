@@ -23,7 +23,7 @@ Skirmisher: can move half speed if enemy ends turn within 5 feet; does not provo
 ## Background
 **Soldier** \
 Feat  \
-Trait  \ 
+**Trait:** blah blah blah  \ 
 Ideal  \ 
 Bond  \ 
 Flaw  \ 
