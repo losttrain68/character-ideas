@@ -1,4 +1,12 @@
-# Ren Blacktail
+# Ren Blacktail 
+
+**RACE:** Critterfolk - Squirrel
+
+**MOVE:** Speed 30’. Climb 30’.
+
+**DESCRIPTION:** 3 feet 3 inches tall, 35 lbs., black fur
+
+**ALIGNMENT:** Neutral Good
 
 ## Class and Level
 
@@ -14,15 +22,7 @@ Skirmisher: can move half speed if enemy ends turn within 5 feet; does not provo
 
 ## Background
 **Soldier** \
-Scout. Veteran of the Watch, Ren is now tasked with patrolling the farmlands outside Waterdeep. He longs for more adventure and time in the trees. 
-
-**RACE:** Critterfolk - Squirrel
-
-**MOVE:** Speed 30’. Climb 30’.
-
-**DESCRIPTION:** 3 feet 3 inches tall, 35 lbs., black fur
-
-**ALIGNMENT:** Neutral Good
+Scout. Veteran of the Watch, Ren is now tasked with patrolling the farmlands outside Waterdeep. He longs for more adventure and time in the trees.
 
 ## Stats
 
