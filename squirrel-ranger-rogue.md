@@ -4,7 +4,7 @@
 
 **MOVE:** Speed 30’. Climb 30’.
 
-**DESCRIPTION:** 3 feet 3 inches tall, 35 lbs., black fur
+**DESCRIPTION:** 3' 3" tall, 35 lbs., black fur
 
 **ALIGNMENT:** Neutral Good
 
