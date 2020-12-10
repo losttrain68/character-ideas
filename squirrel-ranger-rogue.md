@@ -11,7 +11,7 @@
 **Scout Archetype.** Skirmisher - can move half speed if enemy ends turn within 5 feet; does not provoke opportunity attacks.
 
 ## Background
-**Soldier** /
+**Soldier** \
 Scout. Veteran of the Watch, Ren is now tasked with patrolling the farmlands outside Waterdeep. He longs for more adventure and time in the trees. 
 
 **RACE:** Critterfolk - Squirrel
