@@ -52,11 +52,15 @@ Scout. Veteran of the Watch, Ren is now tasked with patrolling the farmlands out
 * Stealth
 * Survival x2
 
-**PROFICIENCIES:** 
+## Proficiencies
 
-**LANGUAGES:** Common, Rodent
+## Languages
+* Common
+* Rodent
 
-**ATTACKS:** Bite and Gnaw (racial) - 1d4+DEX piercing, 1”/min. chew through.
+##Attacks
+* Bite and Gnaw (racial) - 1d4+DEX piercing
+* 1”/min. chew through.
 
 ## Spells
 #### LEVEL 1 (SLOTS = 3):
