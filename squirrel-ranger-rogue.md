@@ -18,13 +18,13 @@
 
 **ALIGNMENT:** Neutral Good
 
-#Stats
+# Stats
 
 *Base + Racial Modifier + Feat Modifier + Points Spent = Total*
 
 **STRENGTH:** 10 + 0 + 0 + 0 = 10
 
-**DEXTERITY:** 18 (+1 Resilient)
+**DEXTERITY:** 10 + 0 + 1 + 7 = 18
 
 **CONSTITUTION:** 12
 
