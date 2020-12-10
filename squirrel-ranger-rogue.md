@@ -26,13 +26,13 @@
 
 **DEXTERITY:** 10 + 0 + 1 + 7 = 18
 
-**CONSTITUTION:** 12
+**CONSTITUTION:** 10 + 0 + 0 + 2 = 12
 
-**INTELLIGENCE:** 12 (+2 racial)
+**INTELLIGENCE:** 10 + 2 + 0 + 0 = 12
 
-**WISDOM:** 11
+**WISDOM:** 10 + 0 + 0 + 1 = 11
 
-**CHARISMA:** 10
+**CHARISMA:** 10 + 0 + 0 + 0 = 10
 
 **FEATS:** Scurry (racial) - can use Dash action as bonus action. Resilient - DEX +1; 
 
