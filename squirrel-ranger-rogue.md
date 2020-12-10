@@ -22,17 +22,17 @@
 
 *Base + Racial Modifier + Feat Modifier + Points Spent = Total*
 
-**STR:** 10 + 0 + 0 + 0 = 10
+* **STR:** 10 + 0 + 0 + 0 = 10
 
-**DEX:** 10 + 0 + 1 + 7 = 18
+* **DEX:** 10 + 0 + 1 + 7 = 18
 
-**CON:** 10 + 0 + 0 + 2 = 12
+* **CON:** 10 + 0 + 0 + 2 = 12
 
-**INT:** 10 + 2 + 0 + 0 = 12
+* **INT:** 10 + 2 + 0 + 0 = 12
 
-**WIS:** 10 + 0 + 0 + 1 = 11
+* **WIS:** 10 + 0 + 0 + 1 = 11
 
-**CHA:** 10 + 0 + 0 + 0 = 10
+* **CHA:** 10 + 0 + 0 + 0 = 10
 
 **FEATS:** Scurry (racial) - can use Dash action as bonus action. Resilient - DEX +1; 
 
