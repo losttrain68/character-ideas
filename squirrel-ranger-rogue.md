@@ -2,9 +2,10 @@
 
 **CHARACTER NAME:** Ren Blacktail
 
-**CLASS & LEVEL:**
+## Class and Level
 
-**Ranger Level 3, Hunter Archetype.** Favored Enemy - Beasts. Hunter’s Prey, Colossus Slayer - creatures below max HP take additional 1d8; only once per turn. Natural Explorer - Forests. Fighting Style - Archery (+2 to ranged weapons). 
+### Ranger Level 3
+**Hunter Archetype.** Favored Enemy - Beasts. Hunter’s Prey, Colossus Slayer - creatures below max HP take additional 1d8; only once per turn. Natural Explorer - Forests. Fighting Style - Archery (+2 to ranged weapons). 
 
 **Rogue Level 3, Scout Archetype.** Skirmisher - can move half speed if enemy ends turn within 5 feet; does not provoke opportunity attacks.
 
