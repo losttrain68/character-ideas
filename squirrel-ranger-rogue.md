@@ -50,4 +50,6 @@
 
 Ensnaring Strike, Hunter’s Mark, Jump
 
-**EQUIPMENT:** Leather Armor, Shortsword, Explorer’s Pack, Shortbow (1d6 piercing), Quiver with 20 arrows, Necklace made from a displacer fang, 
+## EQUIPMENT
+
+Leather Armor, Shortsword, Explorer’s Pack, Shortbow (1d6 piercing), Quiver with 20 arrows, Necklace made from a displacer fang, 
