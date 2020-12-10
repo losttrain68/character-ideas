@@ -48,7 +48,9 @@
 
 #### LEVEL 1 (SLOTS = 3):
 
-Ensnaring Strike, Hunter’s Mark, Jump
+* Ensnaring Strike
+* Hunter’s Mark
+* Jump
 
 ## EQUIPMENT
 
