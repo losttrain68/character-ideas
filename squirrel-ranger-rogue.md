@@ -22,11 +22,11 @@ Skirmisher: can move half speed if enemy ends turn within 5 feet; does not provo
 
 ## Background
 **Soldier** \
-Feat \
-Trait \ 
-Ideal \ 
-Bond \ 
-Flaw \ 
+Feat  \
+Trait  \ 
+Ideal  \ 
+Bond  \ 
+Flaw  \ 
 Scout. Veteran of the Watch. One of his proudest moments was taking down a displacer beast before it could threaten the city proper. Ren is now tasked with patrolling the farmlands outside Waterdeep, but he longs for more adventure and time in the trees.
 
 ## Stats
