@@ -44,7 +44,13 @@ Scout. Veteran of the Watch, Ren is now tasked with patrolling the farmlands out
 * Scurry (racial) - can use Dash action as bonus action
 * Resilient - DEX +1
 
-**SKILLS:** Acrobatics x2, Athletics, Nature, Perception, Stealth, Survival x2
+## Skills
+* Acrobatics x2
+* Athletics
+* Nature
+* Perception
+* Stealth
+* Survival x2
 
 **PROFICIENCIES:** 
 
