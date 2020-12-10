@@ -44,6 +44,10 @@
 
 **ATTACKS:** Bite and Gnaw (racial) - 1d4+DEX piercing, 1”/min. chew through.
 
-**SPELLS LEVEL 1 (SLOTS = 3):** Ensnaring Strike, Hunter’s Mark, Jump
+## Spells
+
+### LEVEL 1 (SLOTS = 3):
+
+Ensnaring Strike, Hunter’s Mark, Jump
 
 **EQUIPMENT:** Leather Armor, Shortsword, Explorer’s Pack, Shortbow (1d6 piercing), Quiver with 20 arrows, Necklace made from a displacer fang, 
