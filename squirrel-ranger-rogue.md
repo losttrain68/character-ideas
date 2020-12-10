@@ -21,12 +21,13 @@ Natural Explorer: Forests. Fighting Style: Archery (+2 to ranged weapons).
 Skirmisher: can move half speed if enemy ends turn within 5 feet; does not provoke opportunity attacks.
 
 ## Background
+
 **Soldier** \
 Feat \
 **Trait:** blah blah blah \ 
-**Ideal** blah blah blah \ 
-**Bond** blah blah blah \ 
-**Flaw** blah blah blah \ 
+**Ideal:** blah blah blah \ 
+**Bond:** blah blah blah \ 
+**Flaw:** blah blah blah \ 
 **Scout.** Veteran of the Watch. One of his proudest moments was taking down a displacer beast before it could threaten the city proper. Ren is now tasked with patrolling the farmlands outside Waterdeep, but he longs for more adventure and time in the trees.
 
 ## Stats
