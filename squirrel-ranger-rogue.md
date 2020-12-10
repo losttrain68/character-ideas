@@ -1,6 +1,4 @@
-# Squirrel Ranger, Multiclass
-
-**CHARACTER NAME:** Ren Blacktail
+# Ren Blacktail
 
 ## Class and Level
 
