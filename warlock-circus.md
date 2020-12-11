@@ -4,7 +4,7 @@ Led by clowns and acrobats, the caravan of The Warlock Circus has come to town w
 
 ## Shows and Atractions
 
-Tickets are available for purchase that allow customer to play carnival games throughout the day. Food stands sell fare both sweet and savory, local and exotic. But what people really come to see are the three shows performed by the Circus. The Fantastical and The Spectacular are held daily, though the performers may change each time. The Fantasmagoria is only performed "when signs and omens portend that the time is right," sometimes only once per location.
+Tickets are available for purchase that allow customers to play carnival games throughout the day. Food stands sell fare both sweet and savory, local and exotic. But what people really come to see are the three shows performed by the Circus: The Fantastical, The Spectacular, and The Fantasmagoria. The Fantastical and The Spectacular are held daily, though the performers may change each time. The Fantasmagoria is only performed "when signs and omens portend that the time is right," sometimes only once per location.
 
 ### The Fantastical
 
