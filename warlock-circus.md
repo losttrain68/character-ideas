@@ -26,23 +26,23 @@ The circus generally sets up outside of larger towns and cities for anywhere fro
 
 ## The Clowns
 
-info
+These guys know exactly what's really going on and are helping the Ringmaster directly.
 
 ## The Acrobats
 
-info
+These people are a distraction, but are highly skilled.
 
 ### The Summoning Master
 
-info
+Poke the Summoning Master, like many gnomes, is genuinely delighted by children and takes pleasure in entertaining with his magical skills. It's unclear if the wizened gnome is in denial about the Ringmaster, if he's in thrall to him, or if he is a willing partner who benefits from the dark goings on.
 
 ### The Mimic Wrangler
 
-info
+In addition to her mimic, she is in charge of the care of all the livestock and petting zoo animals brought along with the circus. Though not evil, she has smiled a little too broadly when someone loses a finger (or more) in her game that's a mix of Duck-Duck-Goose and Whack-a-Mole. It's why they sign a waiver and healers are on standby.
 
 ### The Blade Spinner
 
-(this character and his partner are the whole reason I had to create the stupid circus; expect more later on them)
+This character and his partner are the whole reason I had to create the stupid circus. Expect more elswhere on them.
 
 ### The Tabaxi Defiler
 
@@ -54,7 +54,7 @@ info
 
 ### The Ringmaster
 
-info
+His pact is for souls, and he delivers.
 
 ### Others
 
