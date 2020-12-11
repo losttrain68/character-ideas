@@ -4,7 +4,7 @@ intro
 
 ## Shows and Atractions
 
-info
+Tickets are available for purchase that allow customer to play carnival games throughout the day. Food stands sell fare both sweet and savory, local and exotic. But what people really come to see are the three shows performed by the Circus. The Fantastical and The Spectacular are held daily, though the performers may change each time. The Fantasmagoria is only performed "when signs and omens portend that the time is right," sometimes only once per location.
 
 ### The Fantastical
 
@@ -16,4 +16,4 @@ Beginning at dusk, The Warlock Circus Spectacular draws an older crowd of teens 
 
 ### The Fantasmagoria
 
-At midnight, the Warlock Circus Fantasmagoria begin. The games are shuttered, the food stands are closed, the bright lanterns are put out and only dim candles that never burn down light patrons' way to the tent. This show is for thrill-seekers, for men and women trying to prove their bravery in the face of evil, for the jaded no longer amused by things found in this world. In the center of the tent are three rings, each containing runes and sigils (often in what looks like blood) that let the audience know something dangerous is coming. Can you control yourself when a tabaxi consorts with her familiar and explores the limits of pleasure and pain? Will you keep your food down when a live animal is fed to a demon that appears to be nothing but mouths? Will you retain your sanity when the youngest of Old Ones whispers? Will you run home, run away, or join the circus?
+At midnight, the Warlock Circus Fantasmagoria begin. The games are shuttered, the food stands are closed, the bright lanterns are put out and only dim candles that never burn down light patrons' way to the tent. This show is for thrill-seekers, for men and women trying to prove their bravery in the face of evil, for the jaded no longer amused by things found in this world. In the center of the tent are three rings, each containing runes and sigils (often in what looks like blood) that let the audience know something dangerous is coming. Can you control yourself when a tabaxi consorts with her familiar and explores the limits of pleasure and pain? Will you keep your food down when a live animal is fed to a demon that appears to be nothing but mouths? Will you retain your sanity when the Ringmaster calls forth the youngest of Old Ones and it whispers just for you? Will you run home, run away, or join the circus?
