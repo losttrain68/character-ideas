@@ -1,6 +1,6 @@
-# Warlock Circus
+# The Warlock Circus
 
-intro
+Led by clowns and acrobats, the caravan of The Warlock Circus has come to town with the promise of entertainment spiced with a little bit of danger. Your mother might have gone as a girl and remembers it fondly. Your uncle might have gone and told you tales of the wondrous shows at twilight. But some have a grandparent who locks themself in their room and refuses to come out until the circus has left, while others have friends that ran away with the troupe, never to return. For the most part, the arrival is seen as a good thing, a welcome reprieve from the drudgery of life and exciting opportunity to experience real magic.
 
 ## Shows and Atractions
 
@@ -16,13 +16,21 @@ Beginning at dusk, The Warlock Circus Spectacular draws an older crowd of teens 
 
 ### The Fantasmagoria
 
-At midnight, the Warlock Circus Fantasmagoria begin. The games are shuttered, the food stands are closed, the bright lanterns are put out and only dim candles that never burn down light patrons' way to the tent. This show is for thrill-seekers, for men and women trying to prove their bravery in the face of evil, for the jaded no longer amused by things found in this world. In the center of the tent are three rings, each containing runes and sigils (often in what looks like blood) that let the audience know something dangerous is coming. Can you control yourself when a tabaxi consorts with her familiar and explores the limits of pleasure and pain? Will you keep your food down when a live animal is fed to a demon that appears to be nothing but mouths? Will you retain your sanity when the Ringmaster calls forth the youngest of Old Ones and it whispers just for you? Will you run home, run away, or join the circus?
+At midnight, the Warlock Circus Fantasmagoria begin. The games are shuttered, the food stands are closed, the bright lanterns are put out and only dim candles that never burn down light patrons' way to the tent. This show is for thrill-seekers, for men and women trying to prove their bravery in the face of evil, for the jaded no longer amused by things found in this world. The sights to be seen have only been whispered about, the subjects of tall tales from adventurers and nightmares you thought weren't real. In the center of the tent are three rings, each containing runes and sigils (often in what looks like blood) that let the audience know something dangerous is coming. Can you control yourself when a tabaxi consorts with her familiar and explores the limits of pleasure and pain? Will you keep your food down when a live animal is fed to a demon that appears to be nothing but mouths? Will you retain your sanity when the Ringmaster calls forth the youngest of Old Ones and it whispers just for you? Will you run home, run away, or join the circus? What is known is that you have never seen anything like it before, and often pray that you never do again.
 
 ## The Circus' True Intent
 
-info
+The circus generally sets up outside of larger towns and cities for anywhere from a week to a few months. It's clear that half of the people who work at the circus are using it as a cover for other agendas. What's less clear are their goals. Arcane practitioners have noted that, in addition to the three summoning circles within the main arena, the tent itself sits within a larger runed circle. It is explained as an added precaution and safeguard for the community, but some have their doubts. The circus always transforms the towns it visits - sometimes in subtle ways and sometimes dramatically. While the world is harsh and death always nearby, an uptick in accidents and disappearances are often noticed. All are easily explained away and not even the storied City Watch of Waterdeep has been able to prove that the circus was responsible for wrongdoing. What's undeniable is that people are funneled and enticed toward attending The Fantasmagoria.
 
 ## The Circus Performers and Crew
+
+## The Clowns
+
+info
+
+## The Acrobats
+
+info
 
 ### The Summoning Master
 
@@ -34,7 +42,7 @@ info
 
 ### The Blade Spinner
 
-info
+(this character and his partner are the whole reason I had to create the stupid circus; expect more later on them)
 
 ### The Tabaxi Defiler
 
@@ -45,5 +53,9 @@ info
 info
 
 ### The Ringmaster
+
+info
+
+### Others
 
 info
