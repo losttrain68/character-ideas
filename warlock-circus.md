@@ -38,7 +38,7 @@ These people are a distraction, but are highly skilled.
 
 ### The Mimic Wrangler
 
-In addition to her mimic, she is in charge of the care of all the livestock and petting zoo animals brought along with the circus. Though not evil, she has smiled a little too broadly when someone loses a finger (or more) in her game that's a mix of *Duck-Duck-Goose* and *Whack-a-Mole*. It's why they sign a waiver and healers are on standby.
+In addition to his mimic, he is in charge of the care of all the livestock and petting zoo animals brought along with the circus. Though not evil, he has smiled a little too broadly when someone loses a finger (or more) in her game that's a mix of *Duck-Duck-Goose* and *Whack-a-Mole*. There's a reason volunteers sign a waiver and healers are on standby.
 
 ### The Blade Spinner
 
@@ -54,7 +54,7 @@ info
 
 ### The Ringmaster
 
-His patron's pact is for souls, and the Ringmaster delivers.
+Her patron's pact is for souls, and the Ringmaster delivers.
 
 ### Others
 
