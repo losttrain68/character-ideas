@@ -42,7 +42,7 @@ In addition to his mimic, he is in charge of the care of all the livestock and p
 
 ### The Blade Spinner
 
-This character and his partner are the whole reason I had to create the stupid circus. Expect more elswhere on them.
+[Lamlis and Corrin.](https://github.com/losttrain68/character-ideas/blob/main/lamlis-corrin.md#lamlis--corrin) This character and his partner are the whole reason I had to create the stupid circus.
 
 ### The Tabaxi Defiler
 
