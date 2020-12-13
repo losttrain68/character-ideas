@@ -136,7 +136,8 @@ Hexblade’s Curse. Hex Warrior (use CHA modifier for attack and damage rolls). 
 
 # Corrin Tiltathana 
 
-![Celestial Warlock](https://github.com/losttrain68/character-ideas/blob/main/images/Celestial-Sorcerer-Warlock.jpg)
+![Celestial Warlock]
+(https://github.com/losttrain68/character-ideas/blob/main/images/Celestial-Sorcerer-Warlock.jpg)
 
 **RACE:** Half Elf, Half Tallfellow
 
