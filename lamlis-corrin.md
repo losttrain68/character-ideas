@@ -1,5 +1,7 @@
 # Lamlis & Corrin 
 
+STORY | [LAMLIS]() | CORRIN | CORRIN'S FAMILIAR
+
 Corrin’s family had always revered Tiandra, The Summer Queen, a tradition bordering on religion that was passed to him by his elvish father. His mother grounded him in the ways only a good halfling can, teaching him the value of good food and good family. Both believed that Tiandra smiled on Corrin and that he was special, destined for something great.
 
 While foraging with others from his village for herbs that only bloomed in twilight, Corrin was kidnapped into slavery by drow elves of the Underdark. All of the dark elves seemed to sense something within him that they despised and heaped abuse on Corrin for days until a young elf stepped between the halfling and the lash. What the other drow found enraging, Lamlin found fascinating. He stayed near Corrin, kept him safe from the worst work and physical threats, brought him extra rations and water which Corrin shared with slaves worse off than himself. Lamlin displayed his skill flourishing a blade in front of the slaves, performing tricks that were at first meant to display his superiority. But soon he began to simply practice his tricks and new feats in front of the captives, sometimes even asking Corrin for advice on improvement.
