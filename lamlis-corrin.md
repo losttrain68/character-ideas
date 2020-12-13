@@ -217,4 +217,6 @@ Tiandra, the Summer Queen. Healing Light. Pact of the Chain (see below).
 
 [STORY](https://github.com/losttrain68/character-ideas/blob/main/lamlis-corrin.md#lamlis--corrin) | [LAMLIS](https://github.com/losttrain68/character-ideas/blob/main/lamlis-corrin.md#lamlis-tiltathana) | [CORRIN](https://github.com/losttrain68/character-ideas/blob/main/lamlis-corrin.md#corrin-tiltathana) | CORRIN'S FAMILIAR
 
+# Corrin's Familiar
+
 ![Lantern Archon Familiar](https://github.com/losttrain68/character-ideas/blob/main/images/LANTERN%20ARCHON.png)
