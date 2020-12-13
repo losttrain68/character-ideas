@@ -40,7 +40,7 @@ Years later, Lamlin would again request a boon from Tiandra using Corrin as a co
 
 # Lamlis Tiltathana
 
-![Drow Bladeslinger](https://github.com/losttrain68/character-ideas/blob/main/images/Drow-Bladeslinger.jpg)
+![Drow Bladeslinger](https://github.com/losttrain68/character-ideas/blob/main/images/Drow-Bladeslinger_small.jpg)
 
 **RACE:** Drow Elf
 
@@ -138,7 +138,7 @@ Hexblade’s Curse. Hex Warrior (use CHA modifier for attack and damage rolls). 
 
 # Corrin Tiltathana 
 
-![Celestial Warlock](https://github.com/losttrain68/character-ideas/blob/main/images/Celestial-Sorcerer-Warlock.jpg)
+![Celestial Warlock](https://github.com/losttrain68/character-ideas/blob/main/images/Celestial-Sorcerer-Warlock_small.jpg)
 
 **RACE:** Half Elf, Half Tallfellow
 
