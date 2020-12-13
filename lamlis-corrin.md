@@ -1,6 +1,6 @@
 # Lamlis & Corrin 
 
-[STORY](https://github.com/losttrain68/character-ideas/blob/main/lamlis-corrin.md#lamlis--corrin) | [LAMLIS](https://github.com/losttrain68/character-ideas/blob/main/lamlis-corrin.md#lamlis-tiltathana) | [CORRIN](https://github.com/losttrain68/character-ideas/blob/main/lamlis-corrin.md#corrin-tiltathana) | CORRIN'S FAMILIAR
+[STORY](https://github.com/losttrain68/character-ideas/blob/main/lamlis-corrin.md#lamlis--corrin) | [LAMLIS](https://github.com/losttrain68/character-ideas/blob/main/lamlis-corrin.md#lamlis-tiltathana) | [CORRIN](https://github.com/losttrain68/character-ideas/blob/main/lamlis-corrin.md#corrin-tiltathana) | [CORRIN'S FAMILIAR](https://github.com/losttrain68/character-ideas/blob/main/lamlis-corrin.md#corrins-familiar)
 
 Corrin’s family had always revered Tiandra, The Summer Queen, a tradition bordering on religion that was passed to him by his elvish father. His mother grounded him in the ways only a good halfling can, teaching him the value of good food and good family. Both believed that Tiandra smiled on Corrin and that he was special, destined for something great.
 
@@ -36,7 +36,7 @@ Lamlin looked at the boy’s face and, possibly for the first time in his life, 
 
 Years later, Lamlin would again request a boon from Tiandra using Corrin as a conduit. And though a pact was made to help free slaves and ensure the safety of elves, it was with another, colder Archfey. 
 
-[STORY](https://github.com/losttrain68/character-ideas/blob/main/lamlis-corrin.md#lamlis--corrin) | [LAMLIS](https://github.com/losttrain68/character-ideas/blob/main/lamlis-corrin.md#lamlis-tiltathana) | [CORRIN](https://github.com/losttrain68/character-ideas/blob/main/lamlis-corrin.md#corrin-tiltathana) | CORRIN'S FAMILIAR
+[STORY](https://github.com/losttrain68/character-ideas/blob/main/lamlis-corrin.md#lamlis--corrin) | [LAMLIS](https://github.com/losttrain68/character-ideas/blob/main/lamlis-corrin.md#lamlis-tiltathana) | [CORRIN](https://github.com/losttrain68/character-ideas/blob/main/lamlis-corrin.md#corrin-tiltathana) | [CORRIN'S FAMILIAR](https://github.com/losttrain68/character-ideas/blob/main/lamlis-corrin.md#corrins-familiar)
 
 # Lamlis Tiltathana
 
@@ -134,7 +134,7 @@ Hexblade’s Curse. Hex Warrior (use CHA modifier for attack and damage rolls). 
 * Shield
 * hand crossbow 
 
-[STORY](https://github.com/losttrain68/character-ideas/blob/main/lamlis-corrin.md#lamlis--corrin) | [LAMLIS](https://github.com/losttrain68/character-ideas/blob/main/lamlis-corrin.md#lamlis-tiltathana) | [CORRIN](https://github.com/losttrain68/character-ideas/blob/main/lamlis-corrin.md#corrin-tiltathana) | CORRIN'S FAMILIAR
+[STORY](https://github.com/losttrain68/character-ideas/blob/main/lamlis-corrin.md#lamlis--corrin) | [LAMLIS](https://github.com/losttrain68/character-ideas/blob/main/lamlis-corrin.md#lamlis-tiltathana) | [CORRIN](https://github.com/losttrain68/character-ideas/blob/main/lamlis-corrin.md#corrin-tiltathana) | [CORRIN'S FAMILIAR](https://github.com/losttrain68/character-ideas/blob/main/lamlis-corrin.md#corrins-familiar)
 
 # Corrin Tiltathana 
 
@@ -215,8 +215,10 @@ Tiandra, the Summer Queen. Healing Light. Pact of the Chain (see below).
 * Quarterstaff
 * Small lute (like ukulele small) 
 
-[STORY](https://github.com/losttrain68/character-ideas/blob/main/lamlis-corrin.md#lamlis--corrin) | [LAMLIS](https://github.com/losttrain68/character-ideas/blob/main/lamlis-corrin.md#lamlis-tiltathana) | [CORRIN](https://github.com/losttrain68/character-ideas/blob/main/lamlis-corrin.md#corrin-tiltathana) | CORRIN'S FAMILIAR
+[STORY](https://github.com/losttrain68/character-ideas/blob/main/lamlis-corrin.md#lamlis--corrin) | [LAMLIS](https://github.com/losttrain68/character-ideas/blob/main/lamlis-corrin.md#lamlis-tiltathana) | [CORRIN](https://github.com/losttrain68/character-ideas/blob/main/lamlis-corrin.md#corrin-tiltathana) | [CORRIN'S FAMILIAR](https://github.com/losttrain68/character-ideas/blob/main/lamlis-corrin.md#corrins-familiar)
 
 # Corrin's Familiar
 
 ![Lantern Archon Familiar](https://github.com/losttrain68/character-ideas/blob/main/images/LANTERN%20ARCHON.png)
+
+[STORY](https://github.com/losttrain68/character-ideas/blob/main/lamlis-corrin.md#lamlis--corrin) | [LAMLIS](https://github.com/losttrain68/character-ideas/blob/main/lamlis-corrin.md#lamlis-tiltathana) | [CORRIN](https://github.com/losttrain68/character-ideas/blob/main/lamlis-corrin.md#corrin-tiltathana) | [CORRIN'S FAMILIAR](https://github.com/losttrain68/character-ideas/blob/main/lamlis-corrin.md#corrins-familiar)
