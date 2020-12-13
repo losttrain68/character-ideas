@@ -1,6 +1,6 @@
 # Lamlis & Corrin 
 
-STORY | [LAMLIS](https://github.com/losttrain68/character-ideas/blob/main/lamlis-corrin.md#lamlis-tiltathana) | [CORRIN](https://github.com/losttrain68/character-ideas/blob/main/lamlis-corrin.md#corrin-tiltathana) | CORRIN'S FAMILIAR
+[STORY](https://github.com/losttrain68/character-ideas/blob/main/lamlis-corrin.md#lamlis--corrin) | [LAMLIS](https://github.com/losttrain68/character-ideas/blob/main/lamlis-corrin.md#lamlis-tiltathana) | [CORRIN](https://github.com/losttrain68/character-ideas/blob/main/lamlis-corrin.md#corrin-tiltathana) | CORRIN'S FAMILIAR
 
 Corrin’s family had always revered Tiandra, The Summer Queen, a tradition bordering on religion that was passed to him by his elvish father. His mother grounded him in the ways only a good halfling can, teaching him the value of good food and good family. Both believed that Tiandra smiled on Corrin and that he was special, destined for something great.
 
@@ -34,7 +34,9 @@ Corrin gathered Lamlin and hurried him under cover and out of the sun. He healed
 
 Lamlin looked at the boy’s face and, possibly for the first time in his life, felt hope. “Together.”
 
-Years later, Lamlin would again request a boon from Tiandra using Corrin as a conduit. And though a pact was made to help free slaves and ensure the safety of elves, it was with another, colder Archfey.
+Years later, Lamlin would again request a boon from Tiandra using Corrin as a conduit. And though a pact was made to help free slaves and ensure the safety of elves, it was with another, colder Archfey. 
+
+[STORY](https://github.com/losttrain68/character-ideas/blob/main/lamlis-corrin.md#lamlis--corrin) | [LAMLIS](https://github.com/losttrain68/character-ideas/blob/main/lamlis-corrin.md#lamlis-tiltathana) | [CORRIN](https://github.com/losttrain68/character-ideas/blob/main/lamlis-corrin.md#corrin-tiltathana) | CORRIN'S FAMILIAR
 
 # Lamlis Tiltathana
 
@@ -128,7 +130,9 @@ Hexblade’s Curse. Hex Warrior (use CHA modifier for attack and damage rolls). 
 * Hide (medium) armor
 * Elvish scimitar
 * Shield
-* hand crossbow
+* hand crossbow 
+
+[STORY](https://github.com/losttrain68/character-ideas/blob/main/lamlis-corrin.md#lamlis--corrin) | [LAMLIS](https://github.com/losttrain68/character-ideas/blob/main/lamlis-corrin.md#lamlis-tiltathana) | [CORRIN](https://github.com/losttrain68/character-ideas/blob/main/lamlis-corrin.md#corrin-tiltathana) | CORRIN'S FAMILIAR
 
 # Corrin Tiltathana 
 
@@ -205,4 +209,6 @@ Tiandra, the Summer Queen. Healing Light. Pact of the Chain (see below).
 ## Equipment
 * Leather armor
 * Quarterstaff
-* Small lute (like ukulele small)
+* Small lute (like ukulele small) 
+
+[STORY](https://github.com/losttrain68/character-ideas/blob/main/lamlis-corrin.md#lamlis--corrin) | [LAMLIS](https://github.com/losttrain68/character-ideas/blob/main/lamlis-corrin.md#lamlis-tiltathana) | [CORRIN](https://github.com/losttrain68/character-ideas/blob/main/lamlis-corrin.md#corrin-tiltathana) | CORRIN'S FAMILIAR
