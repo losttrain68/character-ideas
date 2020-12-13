@@ -36,7 +36,7 @@ Lamlin looked at the boy’s face and, possibly for the first time in his life, 
 
 Years later, Lamlin would again request a boon from Tiandra using Corrin as a conduit. And though a pact was made to help free slaves and ensure the safety of elves, it was with another, colder Archfey.
 
-# Lamlis Tiltathana {#lamlis-id}
+# Lamlis Tiltathana
 
 **RACE:** Drow Elf
 
