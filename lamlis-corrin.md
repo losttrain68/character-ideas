@@ -1,6 +1,6 @@
 # Lamlis & Corrin 
 
-STORY | [LAMLIS](https://github.com/losttrain68/character-ideas/blob/main/lamlis-corrin.md#lamlis-tiltathana) | CORRIN | CORRIN'S FAMILIAR
+STORY | [LAMLIS](https://github.com/losttrain68/character-ideas/blob/main/lamlis-corrin.md#lamlis-tiltathana) | [CORRIN](https://github.com/losttrain68/character-ideas/blob/main/lamlis-corrin.md#corrin-tiltathana) | CORRIN'S FAMILIAR
 
 Corrin’s family had always revered Tiandra, The Summer Queen, a tradition bordering on religion that was passed to him by his elvish father. His mother grounded him in the ways only a good halfling can, teaching him the value of good food and good family. Both believed that Tiandra smiled on Corrin and that he was special, destined for something great.
 
@@ -140,54 +140,69 @@ Hexblade’s Curse. Hex Warrior (use CHA modifier for attack and damage rolls). 
 
 ## Class and Level
 
-### class Level xx
-**Archetype.** \
-detail
+### Warlock Level 3
+**Celestial Patron** \
+Tiandra, the Summer Queen. Healing Light. Pact of the Chain (see below).
 
 ## Background
 
-**thing**
-
-**Feat:**
-
-**Trait:** blah blah blah \
-**Ideal:** blah blah blah \
-**Bond:** blah blah blah \
-**Flaw:** blah blah blah
+**Urchin and former slave**
 
 ## Stats
 
 *Base + Racial Modifier + Feat Modifier + Points Spent = Total*
 
-* **STR:** 10 + 0 + 0 + 0 = 10
+* **STR:** 10 + 0 + 0 + -1 = 9
 
-* **DEX:** 10 + 0 + 1 + 7 = 18
+* **DEX:** 10 + 2 + 0 + 0 = 12
 
-* **CON:** 10 + 0 + 0 + 2 = 12
+* **CON:** 10 + 0 + 0 + 3 = 13
 
-* **INT:** 10 + 2 + 0 + 0 = 12
+* **INT:** 10 + 0 + 0 + 0 = 10
 
-* **WIS:** 10 + 0 + 0 + 1 = 11
+* **WIS:** 10 + 0 + 0 + 2 = 12
 
-* **CHA:** 10 + 0 + 0 + 0 = 10
+* **CHA:** 10 + 1 + 0 + 0 = 17
 
 ## Feats
-* thing
+* Lucky (racial) - can reroll a 1 on attack die. 
+* Naturally Stealthy (racial) - can attempt to hide behind larger creatures.
 
 ## Skills
-* thing
+* Investigation
+* Nature
+* Performance
+* Stealth
 
 ## Proficiencies
+* Disguise Kiy
+* Lute
 
 ## Languages
-* thing
-
-## Attacks
-* thing
+* Common
+* Elvish
+* Halfling
 
 ## Spells
-#### LEVEL 1 (SLOTS = 3):
-* spell
+#### INVOCATIONS (SLOTS = 2):
+* Beast SPeech
+* Repelling Blast
+
+## Spells
+#### LEVEL 0 (SLOTS = 2 + PATRONAGE):
+* Blade Ward
+* Eldritch Blast
+* Light
+* Sacred Flame
+
+## Spells
+#### LEVEL 1 (SLOTS = 2):
+* Cure Wounds
+* Lesser Restoration
+* Hold Person
+* Misty Step
 
 ## Equipment
-* Thing
+* Leather armor
+* Quarterstaff
+* Small lute (like ukulele small)
