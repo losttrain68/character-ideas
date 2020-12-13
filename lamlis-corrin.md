@@ -60,11 +60,6 @@ Hexblade’s Curse. Hex Warrior (use CHA modifier for attack and damage rolls). 
 
 **Feat: Actor**
 
-**Trait:** blah blah blah \
-**Ideal:** blah blah blah \
-**Bond:** blah blah blah \
-**Flaw:** blah blah blah
-
 ## Stats
 
 *Base + Racial Modifier + Feat Modifier + Points Spent = Total*
@@ -101,8 +96,33 @@ Hexblade’s Curse. Hex Warrior (use CHA modifier for attack and damage rolls). 
 * Elvish
 
 ## Spells
-#### LEVEL 1 (SLOTS = 3):
-* spell
+#### DROW MAGIC
+* Dancing Lights
+* Faerie Fire (1/long rest)
+* Superior Darkvision 120'
+
+#### BARD LEVEL 0 (SLOTS = 2):
+* Mending
+* Vicious Mockery
+
+#### BARD LEVEL 1 (SLOTS = 4):
+* Bane
+* Detect Magic
+* Heroism
+* Longstrider
+
+#### BARD LEVEL 2 (SLOTS = 2):
+* Enhance Ability
+* Invisibility
+
+#### WARLOCK LEVEL 0 (SLOTS = 2):
+* Dancign Lights
+* True Strike
+
+#### WARLOCK LEVEL 1 (SLOTS = 1):
+* Shield
+* Sleep
+* Warthful Smith
 
 ## Equipment
 * Hide (medium) armor
