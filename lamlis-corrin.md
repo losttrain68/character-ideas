@@ -136,6 +136,8 @@ Hexblade’s Curse. Hex Warrior (use CHA modifier for attack and damage rolls). 
 
 # Corrin Tiltathana 
 
+![Celestial Warlock](https://github.com/losttrain68/character-ideas/blob/main/images/Celestial-Sorcerer-Warlock.jpg)
+
 **RACE:** Half Elf, Half Tallfellow
 
 **DESCRIPTION:** Age 20. Height 5’ 2”. Weight 90 lbs. Size is Medium. His left eye is golden and his right is a deep emerald. A bird of one kind or another always seems to be perched on his shoulder.
