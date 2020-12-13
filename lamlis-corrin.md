@@ -1,6 +1,6 @@
 # Lamlis & Corrin 
 
-STORY | [LAMLIS](https://github.com/losttrain68/character-ideas/blob/main/lamlis-corrin.md#lamlis-tiltathana) | CORRIN | CORRIN'S FAMILIAR
+STORY | [LAMLIS](#lamlis-id) | CORRIN | CORRIN'S FAMILIAR
 
 Corrin’s family had always revered Tiandra, The Summer Queen, a tradition bordering on religion that was passed to him by his elvish father. His mother grounded him in the ways only a good halfling can, teaching him the value of good food and good family. Both believed that Tiandra smiled on Corrin and that he was special, destined for something great.
 
@@ -36,7 +36,7 @@ Lamlin looked at the boy’s face and, possibly for the first time in his life, 
 
 Years later, Lamlin would again request a boon from Tiandra using Corrin as a conduit. And though a pact was made to help free slaves and ensure the safety of elves, it was with another, colder Archfey.
 
-# Lamlis Tiltathana {#lamlis}
+# Lamlis Tiltathana {#lamlis-id}
 
 **RACE:** Drow Elf
 
