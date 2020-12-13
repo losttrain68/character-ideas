@@ -1,6 +1,6 @@
 # Lamlis & Corrin 
 
-STORY | [LAMLIS]() | CORRIN | CORRIN'S FAMILIAR
+STORY | [LAMLIS](https://github.com/losttrain68/character-ideas/blob/main/lamlis-corrin.md#lamlis-tiltathana) | CORRIN | CORRIN'S FAMILIAR
 
 Corrin’s family had always revered Tiandra, The Summer Queen, a tradition bordering on religion that was passed to him by his elvish father. His mother grounded him in the ways only a good halfling can, teaching him the value of good food and good family. Both believed that Tiandra smiled on Corrin and that he was special, destined for something great.
 
