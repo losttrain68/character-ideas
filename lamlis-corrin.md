@@ -129,3 +129,65 @@ Hexblade’s Curse. Hex Warrior (use CHA modifier for attack and damage rolls). 
 * Elvish scimitar
 * Shield
 * hand crossbow
+
+# Corrin Tiltathana 
+
+**RACE:** Half Elf, Half Tallfellow
+
+**DESCRIPTION:** Age 20. Height 5’ 2”. Weight 90 lbs. Size is Medium. His left eye is golden and his right is a deep emerald. A bird of one kind or another always seems to be perched on his shoulder.
+
+**ALIGNMENT:** Neutral Good
+
+## Class and Level
+
+### class Level xx
+**Archetype.** \
+detail
+
+## Background
+
+**thing**
+
+**Feat:**
+
+**Trait:** blah blah blah \
+**Ideal:** blah blah blah \
+**Bond:** blah blah blah \
+**Flaw:** blah blah blah
+
+## Stats
+
+*Base + Racial Modifier + Feat Modifier + Points Spent = Total*
+
+* **STR:** 10 + 0 + 0 + 0 = 10
+
+* **DEX:** 10 + 0 + 1 + 7 = 18
+
+* **CON:** 10 + 0 + 0 + 2 = 12
+
+* **INT:** 10 + 2 + 0 + 0 = 12
+
+* **WIS:** 10 + 0 + 0 + 1 = 11
+
+* **CHA:** 10 + 0 + 0 + 0 = 10
+
+## Feats
+* thing
+
+## Skills
+* thing
+
+## Proficiencies
+
+## Languages
+* thing
+
+## Attacks
+* thing
+
+## Spells
+#### LEVEL 1 (SLOTS = 3):
+* spell
+
+## Equipment
+* Thing
