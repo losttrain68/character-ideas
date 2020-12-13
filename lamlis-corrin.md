@@ -216,3 +216,5 @@ Tiandra, the Summer Queen. Healing Light. Pact of the Chain (see below).
 * Small lute (like ukulele small) 
 
 [STORY](https://github.com/losttrain68/character-ideas/blob/main/lamlis-corrin.md#lamlis--corrin) | [LAMLIS](https://github.com/losttrain68/character-ideas/blob/main/lamlis-corrin.md#lamlis-tiltathana) | [CORRIN](https://github.com/losttrain68/character-ideas/blob/main/lamlis-corrin.md#corrin-tiltathana) | CORRIN'S FAMILIAR
+
+![Lantern Archon Familiar]()
