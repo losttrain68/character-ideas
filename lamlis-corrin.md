@@ -40,6 +40,8 @@ Years later, Lamlin would again request a boon from Tiandra using Corrin as a co
 
 # Lamlis Tiltathana
 
+![Drow Bladeslinger](https://github.com/losttrain68/character-ideas/blob/main/images/Drow-Bladeslinger.jpg)
+
 **RACE:** Drow Elf
 
 **DESCRIPTION:** Age 75. Height 6’ 3”. Weight XX. Charcoal gray skin, pale yellow hair, pale lilac eyes.
