@@ -18,9 +18,9 @@ If first encountered in the wild, the group is likely on their way out to scaven
 
 ## Artificer
 
-### class Level 3
+### Level 3
 **Archetype.** \
-Armorer Specialist.
+Armorer Specialist. Armor Model: Guardian (Thunder Gauntlets 1d8)
 
 ## Background
 
@@ -37,18 +37,18 @@ Armorer Specialist.
 
 * **STR:** 10 + 0 + 0 + 0 = 10
 
-* **DEX:** 10 + 0 + 0 + 0 = 18
+* **DEX:** 10 + 0 + 0 + 3 = 13
 
-* **CON:** 10 + 2 + 0 + 0 = 12
+* **CON:** 10 + 2 + 1 + 0 = 13
 
-* **INT:** 10 + 1 + 0 + 0 = 12
+* **INT:** 10 + 1 + 0 + 7 = 18
 
 * **WIS:** 10 + 0 + 0 + -2 = 8
 
-* **CHA:** 10 + 0 + 0 + 0 = 10
+* **CHA:** 10 + 0 + 0 + 2 = 12
 
 ## Feats
-* thing
+* Crusher: CON +1; move 5' on hit
 
 ## Skills
 * Intimidation
@@ -59,8 +59,8 @@ Armorer Specialist.
 * Light, Medium, Heavy Armor
 * Blacksmith's Tools
 * Shields
-* Thieve's Tools
-* TOOL
+* Thieves' Tools
+* Tinker's Tools
 
 ## Languages
 * thing
@@ -69,8 +69,17 @@ Armorer Specialist.
 * thing
 
 ## Spells
-#### LEVEL 1 (SLOTS = 3):
-* spell
+#### LEVEL 0 (KNOWN = 2):
+* Booming Blade
+* Mend
+
+#### LEVEL 1 (KNOWN = 5; SLOTS = 3):
+* Catapult
+* Feather Fall
+* Jump
+* Magic Missile
+* Thunderwave
 
 ## Equipment
-* Thing
+* Full Plate Mail
+* Blacksmith's, Thieves', and Tinker's Tools
