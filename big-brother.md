@@ -66,7 +66,7 @@ Armorer Specialist. Armor Model: Guardian (Thunder Gauntlets 1d8)
 * thing
 
 ## Attacks
-* thing
+* Booming Blade + Thunder Gauntlet (1d8
 
 ## Spells
 #### LEVEL 0 (KNOWN = 2):
@@ -83,3 +83,4 @@ Armorer Specialist. Armor Model: Guardian (Thunder Gauntlets 1d8)
 ## Equipment
 * Full Plate Mail
 * Blacksmith's, Thieves', and Tinker's Tools
+* Backkpack
