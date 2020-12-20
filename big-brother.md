@@ -39,16 +39,16 @@ Armorer Specialist. Armor Model: Guardian (Thunder Gauntlets 1d8)
 
 * **DEX:** 10 + 0 + 0 + 3 = 13
 
-* **CON:** 10 + 2 + 1 + 0 = 13
+* **CON:** 10 + 2 + 0 + 1 = 13
 
 * **INT:** 10 + 1 + 0 + 7 = 18
 
 * **WIS:** 10 + 0 + 0 + -2 = 8
 
-* **CHA:** 10 + 0 + 0 + 2 = 12
+* **CHA:** 10 + 0 + 0 + 1 = 11
 
 ## Feats
-* Crusher: CON +1; move 5' on hit
+* xxx
 
 ## Skills
 * Intimidation
@@ -63,10 +63,10 @@ Armorer Specialist. Armor Model: Guardian (Thunder Gauntlets 1d8)
 * Tinker's Tools
 
 ## Languages
-* thing
+* Common
 
 ## Attacks
-* Booming Blade + Thunder Gauntlet (1d8
+* Thunder Gauntlet (1d8) + xxx
 
 ## Spells
 #### LEVEL 0 (KNOWN = 2):
