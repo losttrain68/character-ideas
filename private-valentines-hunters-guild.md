@@ -8,7 +8,7 @@ Before he was "Vicerory Garn Valentine" he was an orphaned golden dragonborn who
 
 The human, dwarven, and elfin: *fleshy* coalition that had come to *cleanse* the land returned. A *new crusade*, but he recognized the banner, the flag of their captain. The same warrior who had destroyed his first clan had come back to destroy his new one. And while he was scant more than a warrior/slave, this was a better home than the orphanage. And defintitely not the home that the "paladin" had destroyed a decade before. While his new clan was slaughtered, he raged and raged until the entire cadre of crusaders was destroyed. Finally, all that remained of either side was him and the champion. The paladin, beaten, dismembered, and near death, he lay before the dragonborn and spoke his name a final time. 
 
-"Garn Valentine" was what he said. And from that day forward, the dragonborn who had twice been the victim of his genocide, took that name and swore vengeance on all who would carry out such oaths. <<<More>>>
+"Garn Valentine" was what he said. And from that day forward, the dragonborn who had twice been the victim of his genocide, took that name and swore vengeance on all who would carry out such oaths. **MORE**
   
   
 ## The Changeling
