@@ -63,9 +63,7 @@ Hexblade's Curse - bonus damage equal to proficiency; crit on 19 or 20; regain h
 * Halfling
 
 ## Attacks
-* Smash the Patriarchy: Warhammer 1d8 + Divine Smite + Hexblade Bonus + Crusher pushback 
-
-Bane, Hunter's Mark, Hold Person, Misty Step
+* Smash the Patriarchy: Warhammer (1d8) + Divine Smite (1d8/spell level) + Hexblade Bonus + Crusher pushback 
 
 ## RACIAL MAGIC
 * Light Bearer - knows light cantrip
@@ -75,14 +73,18 @@ Bane, Hunter's Mark, Hold Person, Misty Step
 ## Paladin Spells
 
 #### LEVEL 1 (SLOTS = 4):
+* Bane
 * Bless
 * Compelled Duel
 * Heroism
+* Hunter's Mark
 * Wrathful Smite
 
 #### LEVEL 2 (SLOTS = 2):
 * Find Steed
+* Hold Person
 * Magic Weapon
+* Misty Step
 
 ## Warlock Spells
 
