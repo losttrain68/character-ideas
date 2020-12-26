@@ -59,7 +59,8 @@ Hexblade's Curse - bonus damage equal to proficiency; crit on 19 or 20; regain h
 
 ## Languages
 * Celestial
-* 2 more
+* Common
+* Halfling
 
 ## Attacks
 * Smash the Patriarchy: Warhammer 1d8 + Divine Smit + Hexblade Bonus 
