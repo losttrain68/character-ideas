@@ -63,7 +63,7 @@ Hexblade's Curse - bonus damage equal to proficiency; crit on 19 or 20; regain h
 * Halfling
 
 ## Attacks
-* Smash the Patriarchy: Warhammer 1d8 + Divine Smit + Hexblade Bonus 
+* Smash the Patriarchy: Warhammer 1d8 + Divine Smite + Hexblade Bonus + Crusher pushback 
 
 Bane, Hunter's Mark, Hold Person, Misty Step
 
