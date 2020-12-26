@@ -4,8 +4,6 @@ quick story
 
 **RACE:** thing
 
-**MOVE:** Speed 30’. Climb 30’.
-
 **DESCRIPTION:** height, weight, eye color, hair
 
 **ALIGNMENT:** align
@@ -20,8 +18,6 @@ detail
 
 **thing**
 
-**Feat:**
-
 **Trait:** blah blah blah \
 **Ideal:** blah blah blah \
 **Bond:** blah blah blah \
@@ -33,13 +29,13 @@ detail
 
 * **STR:** 10 + 0 + 0 + 0 = 10
 
-* **DEX:** 10 + 0 + 1 + 7 = 18
+* **DEX:** 10 + 0 + 0 + 0 = 10
 
-* **CON:** 10 + 0 + 0 + 2 = 12
+* **CON:** 10 + 0 + 0 + 0 = 10
 
-* **INT:** 10 + 2 + 0 + 0 = 12
+* **INT:** 10 + 0 + 0 + 0 = 10
 
-* **WIS:** 10 + 0 + 0 + 1 = 11
+* **WIS:** 10 + 0 + 0 + 0 = 10
 
 * **CHA:** 10 + 0 + 0 + 0 = 10
 
@@ -58,7 +54,10 @@ detail
 * thing
 
 ## Spells
-#### LEVEL 1 (SLOTS = 3):
+#### LEVEL 0 (SLOTS = 0):
+* spell
+
+#### LEVEL 1 (SLOTS = 0):
 * spell
 
 ## Equipment
