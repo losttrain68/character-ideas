@@ -27,7 +27,7 @@ Each activation requires one charge. Roll 1d8 to determine active power:
 
 **Level 1**: 1 charge/day
 
-**Level 3**: 3 charges/day, choose one power (charge)/day; **[Detect Magic**](https://www.dndbeyond.com/spells/detect-magic) replaces *All-around vision*. All-around vision can be activated *at will* without expending a charge, for up to 1 hour at a time. Requires a six hours or *a short rest* to recharge.
+**Level 3**: 3 charges/day, choose one power (charge)/day; **[Detect Magic**](https://www.dndbeyond.com/spells/detect-magic) replaces *All-around vision*. All-around vision can be activated *at will* without expending a charge, for up to 1 hour at a time. Requires six hours or *a short rest* to recharge.
 
 **Level 5**: 5 charges/day; choose two power (charge)/day, *See Weakness* damage increases to an additional 2d4 (*no +2 to damage*)
 
