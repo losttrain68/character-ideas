@@ -1,7 +1,3 @@
----
-tags: magic items
----
-
 # Beer Goggles
 
 ![](https://i.imgur.com/aitlVw6.jpg)
@@ -17,8 +13,8 @@ Each activation requires one charge. Roll 1d8 to determine active power:
 
 1. **[True Seeing](https://www.dndbeyond.com/spells/true-seeing)**
 1. **Utility Vision**: 
->*[Darkvision](https://www.dndbeyond.com/spells/darkvision)*<br><br>
-*Read languages* (similar to [*comprehend languages*](https://www.dndbeyond.com/spells/comprehend-languages) except only applies to to written script<br><br>**Track**, or follow a trail, using a perception score with a perception modifier of +7.
+>*[Darkvision](https://www.dndbeyond.com/spells/darkvision)*
+**Read languages** (similar to [*comprehend languages*](https://www.dndbeyond.com/spells/comprehend-languages) except only applies to to written script<br>**Track**, or follow a trail, using a perception score with a perception modifier of +7.
 3. **See weakness**: +2 to hit and damage
 4. [**Scrying**](https://www.dndbeyond.com/spells/scrying)
 5. **X-Ray vision** - like a [*ring of x-ray vision*](https://forgottenrealms.fandom.com/wiki/Ring_of_X-ray_vision#:~:text=A%20ring%20of%20X-ray%20vision%20was%20a%20magic,could%20penetrate%20the%20solid%20barrier%20in%20every%20direction.)
@@ -31,13 +27,11 @@ Each activation requires one charge. Roll 1d8 to determine active power:
 **Level enhancements:
 **
 
-Level 1: 1 charge/day
+**Level 1**: 1 charge/day
 
-Level 3: 3 charges/day, choose one power(charge)/day
+**Level 3**: 3 charges/day, choose one power (charge)/day; **[Detect Magic**
+](https://www.dndbeyond.com/spells/detect-magic) replaces *All-around vision*. All-around vision can be activated *at will* without expending a charge, for up to 1 hour at a time. Requires a six hours or *a short rest* to recharge.
 
-Level 5: 5 charges/day; choose two power(charge)/day, *See Weakness* damage increases to an additional 2d4 (*no +2 to damage*)
+**Level 5**: 5 charges/day; choose two power (charge)/day, *See Weakness* damage increases to an additional 2d4 (*no +2 to damage*)
 
-Level 7: 7 charges/day; choose three power(charge)/day; 
-
-
-**uploaded to losttrain**
+**Level 7**: 7 charges/day; choose three power (charge)/day; 
