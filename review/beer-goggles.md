@@ -13,7 +13,7 @@ Each activation requires one charge. Roll 1d8 to determine active power:
 
 1. **[True Seeing](https://www.dndbeyond.com/spells/true-seeing)**
 1. **Utility Vision**: 
->*[Darkvision](https://www.dndbeyond.com/spells/darkvision)*<br>**Read languages** (similar to [*comprehend languages*](https://www.dndbeyond.com/spells/comprehend-languages) except only applies to to written script<br><br>**Track**, or follow a trail, using a perception score with a perception modifier of +7.
+>*[Darkvision](https://www.dndbeyond.com/spells/darkvision)*<br>**Read languages** (similar to [*comprehend languages*](https://www.dndbeyond.com/spells/comprehend-languages) except only applies to to written script<br>**Track**, or follow a trail, using a perception score with a perception modifier of +7.
 3. **See weakness**: +2 to hit and damage
 4. [**Scrying**](https://www.dndbeyond.com/spells/scrying)
 5. **X-Ray vision** - like a [*ring of x-ray vision*](https://forgottenrealms.fandom.com/wiki/Ring_of_X-ray_vision#:~:text=A%20ring%20of%20X-ray%20vision%20was%20a%20magic,could%20penetrate%20the%20solid%20barrier%20in%20every%20direction.)
@@ -23,8 +23,7 @@ Each activation requires one charge. Roll 1d8 to determine active power:
 
 
 
-**Level enhancements:
-**
+**Level enhancements:**
 
 **Level 1**: 1 charge/day
 
