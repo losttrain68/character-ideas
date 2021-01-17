@@ -27,11 +27,11 @@ Each activation requires one charge. Roll 1d8 to determine active power:
 
 Level 1: 1 charge/day
 
-Level 3: 3 charges/day
+Level 3: 3 charges/day, choose one power(charge)/day
 
-Level 5: 5 charges/day; choose one power/day
+Level 5: 5 charges/day; choose two power(charge)/day, *See Weakness* damage increases to an additional 2d4 (*no +2 to damage*)
 
-Level 7: 5 charges/day; choose two powers/day; *See Weakness* damage increases to an additional 2d4 (*no +2 to damage*)
+Level 7: 7 charges/day; choose three power(charge)/day; 
 
 
 **uploaded to losttrain**
