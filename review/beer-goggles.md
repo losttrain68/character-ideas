@@ -5,7 +5,7 @@
 **Notes**
 The wearer gains enhanced vision(+2 to AC, +2 active/passive perception, +1 to initiative) **allows the fey to see through the wearer's eyes**
 
-The goggles have different attachments and lenses that can be arranged in different formations to provide different powers. The arrangement is not consistent, so the same arrangement may do different things on different occasions. The actual powers are determined randomly. Even when the wearer *learns* how to select powers, the actual arrangement is random. *They just know how to arrange the lenses* to get the desired effect.
+The goggles have different attachments and lenses that can be arranged in different formations to provide different powers. The arrangement is not consistent, so the same combination may do different things on different occasions. The actual powers are determined randomly. Even when the wearer *learns* how to select powers, the actual arrangement is random. *They just know how to arrange the lenses* to get the desired effect.
 
 Lenses require a bonus action to activate. Effect lasts 10 minutes. The wearer can *deactivate* the effect simply by switching the lenses to the *off position*. Drink a pint of alcohol to change the power. Power remains *active* until another pint of alcohol is imbibed. If no alcohol is consumed, the wearer can use a bonus action to re-activate the previous power. 
 
