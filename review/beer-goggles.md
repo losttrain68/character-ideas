@@ -1,7 +1,3 @@
----
-tags: magic items
----
-
 # Beer Goggles
 
 ![](https://i.imgur.com/aitlVw6.jpg)
