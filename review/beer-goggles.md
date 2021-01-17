@@ -24,7 +24,6 @@ Each activation requires one charge. Roll 1d8 to determine active power:
 
 
 **Level enhancements:**
-
 **Level 1**: 1 charge/day
 
 **Level 3**: 3 charges/day, choose one power (charge)/day; **[Detect Magic**
