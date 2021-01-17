@@ -30,7 +30,7 @@ Level 3: 3 charges/day
 
 Level 5: 5 charges/day; choose one power/day
 
-Level 7:
+Level 7: 5 charges/day; choose two powers/day; *See Weakness* damage increases to an additional 2d4 (*no +2 to damage*)
 
 
 
