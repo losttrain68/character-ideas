@@ -1,3 +1,4 @@
+
 # Beer Goggles
 
 ![](https://i.imgur.com/aitlVw6.jpg)
@@ -11,14 +12,14 @@ Lenses require a bonus action to activate. Effect lasts 10 minutes. The wearer c
 
 Each activation requires one charge. Roll 1d8 to determine active power:
 
-1. True Seeing
-1. Darkvision, Read languages (similar to [*comprehend languages*](https://www.dndbeyond.com/spells/comprehend-languages) except only applies to to written script, gain proficiency in tracking and +5 proficiency rating.
-1. See weakness: +2 to hit and damage
-1. [Scrying](https://www.dndbeyond.com/spells/scrying)
-1. X-Ray vision - like a [ring of x-ray vision] (https://forgottenrealms.fandom.com/wiki/Ring_of_X-ray_vision#:~:text=A%20ring%20of%20X-ray%20vision%20was%20a%20magic,could%20penetrate%20the%20solid%20barrier%20in%20every%20direction.)
-1. All-around vision: cannot be surprised
-2. Precognitive vision: Choose one: Your GM tells you about one future enemy, a nearby locale of upcoming interest, or the name of a person of future public interest. This information appears scrawled on your scroll in a language or script, of your choice, you can understand. (as [precognitive perception](https://www.dandwiki.com/wiki/Precognitive_Perception_(5e_Spell)))
-3. [Clairvoyance](https://www.dndbeyond.com/spells/clairvoyance)
+1. **[True Seeing](https://www.dndbeyond.com/spells/true-seeing)**
+1. **Utility Vision: **[Darkvision](https://www.dndbeyond.com/spells/darkvision)**, **Read languages** (similar to [*comprehend languages*](https://www.dndbeyond.com/spells/comprehend-languages) except only applies to to written script, gain proficiency in **tracking** and +5 proficiency rating.
+1. **See weakness**: +2 to hit and damage
+1. [**Scrying**](https://www.dndbeyond.com/spells/scrying)
+1. X**-Ray vision** - like a [***ring of x-ray vision***] (https://forgottenrealms.fandom.com/wiki/Ring_of_X-ray_vision#:~:text=A%20ring%20of%20X-ray%20vision%20was%20a%20magic,could%20penetrate%20the%20solid%20barrier%20in%20every%20direction.)
+1. **All-around vision**: *cannot be surprised*
+2. **Precognitive vision**: Choose one: Your GM tells you about one future enemy, a nearby locale of upcoming interest, or the name of a person of future public interest. This information appears scrawled on your scroll in a language or script, of your choice, you can understand. (as [***precognitive perception***](https://www.dandwiki.com/wiki/Precognitive_Perception_(5e_Spell)))
+3. [**Clairvoyance**](https://www.dndbeyond.com/spells/clairvoyance)
 
 
 
