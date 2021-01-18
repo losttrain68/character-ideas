@@ -24,7 +24,7 @@ However, the wearer must drink a pint of alcohol to change and activate a new po
 | -------- | -------- | 
 | First     | 4     | 
 | Third     | 6     | 
-| Seventh    | 8     | 
+| Seventh    | 10     | 
 | Ninth     | 12   | 
 | Eleventh     | 15   | 
 
