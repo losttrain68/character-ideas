@@ -18,6 +18,7 @@ Lenses require a bonus action to activate. The wearer can *deactivate* the effec
 
 However, the wearer must drink a pint of alcohol to change and activate a new power. If no alcohol is consumed, the wearer can use a bonus action to re-activate the previous power. 
 
+---
 
 | Level | # of charges|
 | -------- | -------- | 
