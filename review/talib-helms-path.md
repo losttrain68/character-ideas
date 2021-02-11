@@ -1,7 +1,3 @@
----
-tags: player-characters
----
-# Talib
 ## Helm's Path
 
 Being in a completely unfamiliar place wasn't stressful. Being surrounded by a population made up almost entirely humans and halflings, was kind of stressful. That there seemed to be less than two hundred of them was also stressful. Finding out that he was almost two thousand years in the past, was pretty stressful too.
