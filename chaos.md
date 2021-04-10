@@ -31,4 +31,5 @@ To have bad guys who did bad things, who may be somehow connected/or be faces of
 
 Ugh, maybe that's not Chaos related at all!
 
+# $$#!$)$!! Maybe what I need is a *face of evil* that is incarnate in these champions?
 
