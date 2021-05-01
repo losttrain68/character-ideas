@@ -10,7 +10,7 @@ Beginning when you select this school at 2nd level, the gold and time you must s
 ## Practitioner of the Arcane
 Beginning at 2nd level, you can cast spells from other classes (hereafter *Arcane Spell*). You can prepare the number of spells equal to your intelligence bonus + your proficiency bonus. Intelligence is your spellcasting ability for your Wizard and Arcane spells.
 
-The Wizard has half the number (rounded down) and level of Arcane spell slots equal to one level lower than their current Wizard level on the Wizard table. For example a third level Wizard would have four 1st level and two 2nd level spell slots. They also have one 1st level Arcane spell slot.
+The Wizard has half the number (rounded down) of Arcane spell slots equal to one level lower than their current Wizard level on the Wizard table. For example a third level Wizard would have four 1st level and two 2nd level spell slots. They also have one 1st level Arcane spell slot.
 
 >Ariel, a 5th level Diegesis Wizard (proficiency bonus: +3), with an intelligence of 16 (bonus: +3) can prepare 6 Wizard spells and up to 6 Arcane spells. 
 > He has four 1st level, three 2nd level and two 3rd level Wizard spell slots.
