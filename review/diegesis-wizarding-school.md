@@ -13,7 +13,7 @@ Beginning at 2nd level, you can cast spells from other classes (hereafter *Arcan
 The Wizard has the number and level of Arcane spell slots equal to one level lower than their current Wizard level on the Wizard table. For example a third level Wizard can cast four 1st level spells and two 2nd level spells. They can also cast three 1st level Arcane spells. 
 
 >Ariel, a 5th level Diegesis Wizard (proficiency bonus: +3), with an intelligence of 16 (bonus: +3) can prepare 6 Wizard spells and 6 Arcane spells. 
-> He he can cast four 1st level, three 2nd level and 2 third level Wizard spells
+> He he can cast four 1st level, three 2nd level and two 3rd level Wizard spells
 > He can cast four 1st level and three 2nd level Arcane spells.
 
 Beginning at second level, you can know (prepare) the same number or Arcane cantrips as you can Wizard cantrips.
