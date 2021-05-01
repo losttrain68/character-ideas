@@ -1,6 +1,6 @@
 # Diegesis Wizarding School
 
-Members of the Diegesis who study magic, approach spellcraft with an almost mechanical passion, like an engineering or logic puzzle. Each spell, each type of magic is studied like a elements of a foreign language. Traditionally the Diegesis study of magic begins with the basics of the wizarding world, but that is just the beginning of exploration for the adept. Some wizard adepts/scholars will follow a path true to wizarding, embracing a more traditional school or specialization.
+Members of the Diegesis who study magic, approach spellcraft with an almost mechanical passion, like an engineering or logic puzzle. Each spell, each type of magic is studied like a elements of a foreign language. Traditionally the Diegesis study of magic begins with the basics of the wizard school but that is just the beginning of exploration for the adept. Some wizard adepts/scholars will follow a path true to wizarding, embracing a more traditional school or specialization.
 
 This school of study is devoted to unlocking the inner-connected secrets of spellcraft and the similarities and differences in underlying power behind the different sources of magic: cleric, druidic, sorcerer, warlock and wizard.
 
