@@ -8,7 +8,7 @@ This school of study is devoted to unlocking the inner-connected secrets of spel
 Beginning when you select this school at 2nd level, the gold and time you must spend to copy ***any*** spell into your spellbook is halved.
 
 ## Practitioner of the Arcane
-Beginning at 2nd level, you can cast spells from other classes (hereafter *Arcane Spell*). You can cast the number of spells equal to your intelligence bonus + your proficiency bonus.
+Beginning at 2nd level, you can cast spells from other classes (hereafter *Arcane Spell*). You can prepare the number of spells equal to your intelligence bonus + your proficiency bonus.
 
 The Wizard has the number and level of Arcane spell slots equal to one level lower than their current Wizard level on the Wizard table. For example a third level Wizard can cast four 1st level spells and two 2nd level spells. They can also cast three 1st level Arcane spells. 
 
