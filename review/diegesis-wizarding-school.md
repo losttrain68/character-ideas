@@ -8,18 +8,20 @@ This school of study is devoted to unlocking the inner-connected secrets of spel
 Beginning when you select this school at 2nd level, the gold and time you must spend to copy ***any*** spell into your spellbook is halved.
 
 ## Practitioner of the Arcane
-Beginning at 2nd level, you can cast spells from other classes (hereafter *Arcane Spell*). You can prepare the number of spells equal to your intelligence bonus + your proficiency bonus.
+Beginning at 2nd level, you can cast spells from other classes (hereafter *Arcane Spell*). You can prepare the number of spells equal to your intelligence bonus + your proficiency bonus. Intelligence is your spellcasting ability for your Wizard and Arcane spells.
 
-The Wizard has the number and level of Arcane spell slots equal to one level lower than their current Wizard level on the Wizard table. For example a third level Wizard can cast four 1st level spells and two 2nd level spells. They can also cast three 1st level Arcane spells. 
+The Wizard has half the number (rounded down) and level of Arcane spell slots equal to one level lower than their current Wizard level on the Wizard table. For example a third level Wizard would have four 1st level and two 2nd level spell slots. They also have one 1st level Arcane spell slot.
 
->Ariel, a 5th level Diegesis Wizard (proficiency bonus: +3), with an intelligence of 16 (bonus: +3) can prepare 6 Wizard spells and 6 Arcane spells. 
-> He he can cast four 1st level, three 2nd level and two 3rd level Wizard spells
-> He can cast four 1st level and three 2nd level Arcane spells.
+>Ariel, a 5th level Diegesis Wizard (proficiency bonus: +3), with an intelligence of 16 (bonus: +3) can prepare 6 Wizard spells and up to 6 Arcane spells. 
+> He has four 1st level, three 2nd level and two 3rd level Wizard spell slots.
+> He has two 1st level and one 2nd level Arcane spell slots 
 
 Beginning at second level, you can know (prepare) the same number or Arcane cantrips as you can Wizard cantrips.
 
 ## Advanced Caster
-Beginning at 6th level, you have mastered the mechanics of wizardly spellcraft. Whenever you cast a Wizard spell of 1st level or higher, using a spell slot, you regain one expended Wizard spell slot of equal ore lesser value than the spell cast. You can not regain spell slots higher than 5th level.
+Beginning at 6th level, you have mastered the mechanics of wizardly spellcraft. Whenever you cast a Wizard spell of 1st level or higher, using a spell slot, you regain one expended Wizard spell slot of equal ore lesser value than the spell cast. You can not regain spell slots higher than 5th level. 
+
+At tenth level, whenever you cast an Arcane spell of 1st level or higher, using a spell slot, you regain one Arcane spell slot of equal ore lesser value than the spell cast. 
 
 ## Superior Student
 Beginning at 10th level, you have unearthed the intricate connection between magic and your target. If a successful saving throw would negate damage and additional damage effect of your spell, the target instead takes half damage and effect of the spell. This only applies to spells that cause damage.
