@@ -21,7 +21,7 @@ Beginning at second level, you can know (prepare) the same number or Arcane cant
 ## Advanced Caster
 Beginning at 6th level, you have mastered the mechanics of wizardly spellcraft. Whenever you cast a Wizard spell of 1st level or higher, using a spell slot, you regain one expended Wizard spell slot of equal ore lesser value than the spell cast. You can not regain spell slots higher than 5th level. 
 
-At tenth level, whenever you cast an Arcane spell of 1st level or higher, using a spell slot, you regain one Arcane spell slot of equal ore lesser value than the spell cast. 
+At tenth level, whenever you cast an Arcane spell of 1st level or higher, using a spell slot, you regain one Arcane spell slot of equal ore lesser value than the spell cast. You can not regain spell slots higher than 5th level. 
 
 ## Superior Student
 Beginning at 10th level, you have unearthed the intricate connection between magic and your target. If a successful saving throw would negate damage and additional damage effect of your spell, the target instead takes half damage and effect of the spell. This only applies to spells that cause damage.
