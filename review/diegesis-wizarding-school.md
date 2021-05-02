@@ -19,8 +19,8 @@ The Wizard has half the number (rounded down) of Arcane spell slots equal to one
 Beginning at second level, you can know (prepare) the half the number or Arcane cantrips as you can Wizard cantrips.
 
 ## Advanced Caster
-Beginning at 6th level, you have mastered the mechanics of school of magic. Whenever you cast a Wizard spell of 2nd level or higher from your chosen field of study, using a spell slot, you regain one expended Wizard spell slot of equal or lesser value than the spell cast. You can not regain spell slots higher than 5th level. 
-
+Beginning at 6th level, you have mastered the mechanics of school of magic. Whenever you cast a Wizard spell of 2nd level or higher from your chosen school of study (e.g., 
+Abjuration, Conjuration, Divination, Enchantment, Evocation, Illusion, Necromancy, or Transmutation), using a spell slot, you regain one expended Wizard spell slot of equal or lesser value than the spell cast. You can not regain spell slots higher than 5th level. 
 
 ## Superior Student
 Beginning at 10th level, you have unearthed the intricate connection between magic and your target. When a creature succeeds on a saving throw against a spell up to 2nd level, that would negate damage, the creature takes half the spell's damage, but suffers no additional Effect from the spell. 
